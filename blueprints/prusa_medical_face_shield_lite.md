@@ -1,6 +1,6 @@
 ---
-id: pomoznemocnici_sk
-title: pomoznemocnici sk protective shield
+id: prusa_medical_face_shield_lite
+name: Prusa Medical Face Shield Lite
 link: https://www.prusaprinters.org/prints/25714-pomoznemocnicisk-protective-shield
 tools:
   - ender_3
@@ -11,7 +11,7 @@ materials:
 lang: en
 ---
 
-# pomoznemocnici sk protective shield
+# Prusa Medical Face Shield Lite
 
 ## Inalksjdlasda
 

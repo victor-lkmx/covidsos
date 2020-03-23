@@ -1,6 +1,6 @@
 ---
 id: baby_face_mask_frame
-title: Baby Face Mask Frame
+name: Baby Face Mask Frame
 link: https://www.prusaprinters.org/prints/25748-baby-face-mask-frame
 tools:
   - ender_3

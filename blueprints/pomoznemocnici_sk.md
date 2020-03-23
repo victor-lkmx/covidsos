@@ -1,6 +1,6 @@
 ---
 id: pomoznemocnici_sk
-title: pomoznemocnici sk protective shield
+name: pomoznemocnici sk protective shield
 link: https://www.prusaprinters.org/prints/25714-pomoznemocnicisk-protective-shield
 tools:
   - ender_3
