@@ -3,7 +3,6 @@ id: prusa_protective_shield_remix
 name: Baby Face Mask Frame
 link: https://www.prusaprinters.org/prints/26507-prusa-protective-shield-remix-for-vase-mode-printi
 tools:
-  - ender_3
   - mk3
 materials:
   - PLA
