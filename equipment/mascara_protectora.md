@@ -6,6 +6,8 @@ tools:
   - ender_3
 materials:
   - filamento_pla
+  - lamina_pvc
+  - correa_trasera
 lang: es
 ---
 
