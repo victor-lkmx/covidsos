@@ -9,7 +9,7 @@ materials:
 lang: es
 ---
 
-# Prusa Protective Face Shield - RC2
+# Máscara protectora
 
 ### Introducción
 
