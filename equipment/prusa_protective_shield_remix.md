@@ -5,7 +5,7 @@ link: https://www.youtube.com/watch?v=xsc1RIfQK8s
 tools:
   - ender_3
 materials:
-  - esun_hips_natural_175_mm
+  - filamento_pla
 lang: es
 ---
 
@@ -64,6 +64,9 @@ Los parámetros de impresión solo son una guía de referencia, dado que cada im
   • Relleno: 80mm/s
   • Recorrido: 180mm/s
   
+### Archivo para impresión
+  • https://www.thingiverse.com/thing:4233193/
+  
 ### Velocidad para movimientos de impresión
 • Perímetros: 80 mm/s
 • Perímetros pequeños: 80 mm/s
@@ -81,12 +84,3 @@ Los parámetros de impresión solo son una guía de referencia, dado que cada im
 # Ensamblaje
 
 • https://www.youtube.com/watch?v=xsc1RIfQK8s
-
-
-
-
-
-
-
-
-
