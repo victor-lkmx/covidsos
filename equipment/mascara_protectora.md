@@ -8,7 +8,6 @@ materials:
   - filamento_pla
   - lamina_pvc
   - correa_trasera
-  - acetato
 lang: es
 ---
 
