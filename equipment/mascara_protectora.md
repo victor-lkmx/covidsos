@@ -37,7 +37,7 @@ Lamina frontal
 Láminas de PVC tamaño DINA4
   - Láminas de acetato de 180 o 240 micras.
   - Laminas PET de 400 micras
-      Opcionalmente:
+    - Opcionalmente:
       - Láminas de acetato de 180 o 240 micras.
       - Laminas PET de 400 micras
 - Correa posterior
