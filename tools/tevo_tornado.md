@@ -1,8 +1,8 @@
 ---
-id: ender_3
-name: Ender 3
+id: tevo_tornado
+name: TEVO® Tornado DIY 3D
 vendors:
-  - https://www.amazon.com.mx/Ender-3-Pro/dp/B07N4CZDHR/ref=asc_df_B07N4CZDHR/?tag=gledskshopmx-20&linkCode=df0&hvadid=367940456568&hvpos=&hvnetw=g&hvrand=16128081844631103203&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010004&hvtargid=pla-806030478689&psc=1
+  - https://www.banggood.com/TEVO-Tornado-DIY-3D-Printer-Kit-300300400mm-Large-Printing-Size-1_75mm-0_4mm-Nozzle-p-1186106.html?ID=48035&cur_warehouse=USA
 ---
 
 # Material ideal para mascarillas
