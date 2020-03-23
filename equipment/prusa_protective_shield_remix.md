@@ -1,6 +1,6 @@
 ---
-id: ender_3
-title: Prusa Protective Face Shield - RC2
+id: mascara_protectora
+title: Mascara protectora
 link: https://www.youtube.com/watch?v=xsc1RIfQK8s
 tools:
   - ender_3
