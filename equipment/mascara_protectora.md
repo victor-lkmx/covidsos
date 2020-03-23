@@ -70,10 +70,6 @@ Los parámetros de impresión solo son una guía de referencia, dado que cada im
 - Relleno: 80mm/s
 - Recorrido: 180mm/s
   
-### Archivo para impresión
-
-- https://www.thingiverse.com/thing:4233193/
-  
 ### Velocidad para movimientos de impresión
 
 - Perímetros: 80 mm/s
@@ -89,6 +85,10 @@ Los parámetros de impresión solo son una guía de referencia, dado que cada im
 ### Material de impresión
 
 - PLA
+
+### Archivo para impresión
+
+- https://www.thingiverse.com/thing:4233193/
 
 # Ensamblaje
 
