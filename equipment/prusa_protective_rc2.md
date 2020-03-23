@@ -9,6 +9,7 @@ materials:
   - esun_hips_black_175_mm
   - abs_esun_white_285_mm
 lang: es
+file: files/asldjaskd.sls
 ---
 
 # Prusa Protective Face Shield - RC2
