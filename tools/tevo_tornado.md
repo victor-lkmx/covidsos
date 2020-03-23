@@ -7,4 +7,4 @@ vendors:
 
 # Material ideal para mascarillas
 
-jaksdkajssldk ajsdj as
+jaksdkajssldk ajsdj
