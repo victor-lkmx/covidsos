@@ -6,6 +6,7 @@ tools:
   - ender_3
 materials:
   - filamento_pla
+  - acetato
 lang: es
 ---
 
@@ -49,7 +50,7 @@ El archivo para su impresión se puede descargar desde el siguiente enlace:
 
 TEMPORAL: https://www.thingiverse.com/thing:4233193/
 
-Los parámetros de impresión solo son una guía de referencia, dado que cada impresora tiene sus propios parámetros para garantizar impresiones optimas.
+**Los parámetros de impresión solo son una guía de referencia, dado que cada impresora tiene sus propios parámetros para garantizar impresiones optimas.**
 
 - Diámetro del nozzle: 0.4mm
 - Altura de capa: 0.28mm
