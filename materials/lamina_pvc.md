@@ -1,6 +1,7 @@
 ---
 id: lamina_pvc
 name: Lámina PVC transparente
+summary: Lamina PVC transparente
 vendors: https://listado.mercadolibre.com.mx/laminas-de-pvc-transparente
 ---
 
