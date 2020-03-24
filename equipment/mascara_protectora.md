@@ -14,7 +14,7 @@ lang: es
 
 # Máscara protectora
 
-### Introducción
+## Introducción
 
 El siguiente manual explica el procedimiento por el cual se realiza la fabricación mediante FDM y el posterior ensamblaje de las máscaras de protección diseñadas por la comunidad Coronavirus Maker en España dentro de la crisis de COVID-19.
 Los dispositivos constan de 2 partes: la sujeción (impresa en PLA) y la lámina de protección (lámina de PVC). El autor del diseño es Hanoch Hemmerich.
@@ -28,11 +28,11 @@ Adicionalmente, el presente dispositivo, dispone de 2 ranuras que evitan la form
 Por motivos de bioseguridad, y siguiendo la normativa, este sistema está diseñado para un solo uso. No obstante, puede ser desinfectados mediante métodos químicos bajo el criterio del equipo de Riesgos Laborales. En ningún caso debe esterilizarse por métodos físicos o químicos. En caso de requerir su desinfección, se ha testado con una solución acuosa de hipoclorito sódico al 5%.
 Desde Coronavirus Maker insistimos que es criterio del centro la reutilización del dispositivo. Este equipo está diseñado para usar y tirar, a pesar de ser material reciclable.
 
-### Herramientas
+## Herramientas
 
 1. ender_3
 
-### Materiales
+## Materiales
 
 Los siguientes enlaces solo son una referencia del material utilizado para la elaboración de las pantallas protectoras.
 
@@ -46,7 +46,7 @@ Láminas de PVC tamaño DINA4
 - Correa posterior
   - Goma elástica o similar
   
-### Parámetros de impresión
+## Parámetros de impresión
 
 El archivo para su impresión se puede descargar desde el siguiente enlace:
 
@@ -93,6 +93,6 @@ TEMPORAL: https://www.thingiverse.com/thing:4233193/
 
 - https://www.thingiverse.com/thing:4233193/
 
-# Ensamblaje
+## Ensamblaje
 
 - https://www.youtube.com/watch?v=xsc1RIfQK8s
