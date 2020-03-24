@@ -1,6 +1,7 @@
 ---
 id: correa_trasera
 name: Correa trasera
+summary: Correa trasera con banda elástica
 vendors: https://www.amazon.com.mx/Exceart-El%C3%A1stico-El%C3%A1sticas-El%C3%A1stica-Manualidades/dp/B083WL1L4N/ref=sr_1_fkmr0_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=carrete+el%C3%A1stico+media+pulgada&qid=1584950646&s=kitchen&sr=1-1-fkmr0
 ---
 
