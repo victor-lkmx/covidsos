@@ -1,6 +1,7 @@
 ---
 id: filamento_pla
 name: PLA/PHA OLYMPIC GOLD 1.75 MM
+summary: Filamento PLA Gold 1.75 mm
 vendors: https://www.3dmarket.mx/p/plapha-olympic-gold-1-75-mm/
 ---
 
