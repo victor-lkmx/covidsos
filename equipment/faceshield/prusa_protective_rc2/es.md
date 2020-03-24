@@ -20,4 +20,4 @@ picture: images/twitter_cover.png
 
 Prusa Protective Face Shield
 
-![Dojo imagen](./twitter_cover.png)
+![Dojo imagen](./img/twitter_cover.png)
