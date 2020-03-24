@@ -1,6 +1,7 @@
 ---
 id: pruse_protective_rc2
 name: Prusa Protective Face Shield - RC2
+summary: Prusa Face Shield RC2
 link: https://www.prusaprinters.org/prints/25857-protective-face-shield-
 tools:
   - ender_3
@@ -14,7 +15,6 @@ file: files/asldjaskd.sls
 
 # Prusa Protective Face Shield - RC2
 
-## Inalksjdlasda
+## Summary
 
-asdasd asd asd asd
-
+Prusa Protective Face Shield
