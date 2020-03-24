@@ -1,6 +1,7 @@
 ---
 id: prusa_i3
 name: Prusa i3
+summary: Prusa i3 Impresora 3D
 vendors: https://www.impresoras3d.com.mx/producto/prusa-i3-mk3/
 ---
 
