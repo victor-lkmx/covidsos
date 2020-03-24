@@ -1,6 +1,7 @@
 ---
 id: mascara_protectora
 name: Mascara protectora
+summary: Mascara protectora con escudo de acetato
 link: https://www.youtube.com/watch?v=xsc1RIfQK8s
 tools:
   - ender_3
